@@ -25,6 +25,17 @@
     3. Cucumber	- BDD test scenarios
     4. Allure - Test reporting
 
-    🚀 How to Run the Tests
-    Install Dependencies: npm install
-    To run: npm run test
+
+✅ Test Scenarios Covered
+- Happy path
+- Field validation: required fields
+- Error message validation
+
+
+ 🚀 How to Run the Tests
+Install Dependencies: npm install
+To run: npm run test
+
+✅ Notes
+- Focused on demonstrating scalable, maintainable test design
+- Encountered and resolved Appium and Android Emulator setup issues
